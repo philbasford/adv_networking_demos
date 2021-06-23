@@ -1,7 +1,7 @@
 
 # Welcome to Advance Networking Demos!
 
-The following demos are based on the https://acloudguru.com/course/aws-certified-advanced-networking-specialty-2 @ 22 June 2021. I have VPN and Transit GW demos and I have redone them in CDK.
+The following demos are based on the https://acloudguru.com/course/aws-certified-advanced-networking-specialty-2 @ 22 June 2021. I taken VPN and Transit GW demos and I have redone them in CDK.
 
 ## Why
 I did this during the course to get more into depths of the CDK and to help build a better understanding of the examples. So I wanted to share it.
